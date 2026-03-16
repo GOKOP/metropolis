@@ -34,7 +34,7 @@ async fn main() -> Result<(), Box<dyn Error>> {
     let mut sys = System::new_all();
     
     // DETECT DISTRO
-    let distro = "fedora".to_string(); 
+    let distro = System::name().unwrap_or_else(|| "linux".to_string()).to_lowercase();
     let mut city = MetropolisCity::new(distro, weather);
     
     let tick_rate = Duration::from_millis(50); 

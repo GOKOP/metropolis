@@ -15,7 +15,7 @@ Inspired by the grit of retro-future sci-fi and the architecture of the Unix sou
 
 ### 🏢 Monolithic Branding (OS Distro Support)
 Metropolis is loyal to its host. The skyline features a massive central monolith that reflects your identity:
-- **Custom Distro Logos**: Native ASCII art for **Arch**, **NixOS**, **Parrot OS**, **Debian**, **Ubuntu**, **Fedora**, and and more.
+- **Cross-Platform Branding**: Native ASCII art that automatically detects and renders your OS identity.
 - **Corporate Takeover**: The main tower is branded by your OS corporation (e.g., `PARROT CORP`, `ARCH CORP`).
 
 ### 🚦 Resource-Reactive Logistics
