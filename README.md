@@ -57,7 +57,12 @@ Metropolis is an orchestrated simulation, not just a loop:
 
 ## 🕹️ Installation
 
-### Quick Start (Cargo)
+### ⚡ One-Line Install (Linux / macOS)
+```bash
+curl -fsSL https://raw.githubusercontent.com/5c0/metropolis/main/install.sh | bash
+```
+
+### Build from Source
 ```bash
 git clone https://github.com/5c0/metropolis.git
 cd metropolis
