@@ -42,7 +42,11 @@ cargo run --release
 ```
 
 ### AUR (Arch Linux)
-Coming soon...
+Available in AUR:
+```bash
+yay -S metropolis
+```
+
 
 ---
 
