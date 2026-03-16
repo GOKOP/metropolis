@@ -12,6 +12,16 @@
 
 Inspired by the grit of retro-future sci-fi and the architecture of the Unix soul, Metropolis doesn't just show you that your system is busy—it shows you **why** the city is alive.
 
+### DEMO
+
+### Night
+![Metropolis demo](docs/clean.gif)
+
+### Rain
+![Metropolis rain demo](docs/rain.gif)
+
+### Snow
+![Metropolis snow demo](docs/snow.gif)
 ---
 
 ## 🚀 The Simulation (Features)
