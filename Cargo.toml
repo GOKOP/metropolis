@@ -1,0 +1,18 @@
+[package]
+name = "metropolis"
+version = "0.1.0"
+edition = "2021"
+authors = ["5c0 <admin@5c0.io>"]
+description = "A cinematic, retro-cyberpunk system monitor for the terminal powered by Rust."
+license = "MIT"
+repository = "https://github.com/5c0/metropolis"
+keywords = ["tui", "system-monitor", "cyberpunk", "aesthetic", "rust"]
+categories = ["visualization", "command-line-utilities"]
+
+[dependencies]
+ratatui = "0.26"
+crossterm = { version = "0.27", features = ["event-stream"] }
+sysinfo = "0.30"
+tokio = { version = "1", features = ["full"] }
+rand = "0.8"
+futures = "0.3"
