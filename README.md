@@ -22,13 +22,13 @@ Every flicker of a neon sign, every shuttle streaking across the sky, and every 
 
 ## Demos
 
-### 🌃 Standard Protocol (Night)
+### 🌃 Night
 ![Metropolis demo](docs/clean.gif)
 
-### ☔ Atmospheric Shift (Rain)
+### ☔ Rain
 ![Metropolis rain demo](docs/rain.gif)
 
-### ❄️ Cryo Protocol (Snow)
+### ❄️ Snow
 ![Metropolis snow demo](docs/snow.gif)
 
 ---
@@ -87,7 +87,7 @@ cargo run --release
 
 ---
 
-## 🛠 Built With
+## Built With
 
 - **[Rust](https://www.rust-lang.org/)**: For sub-millisecond, zero-overhead rendering.
 - **[Ratatui](https://ratatui.rs/)**: The backbone of our terminal metropolis.
@@ -97,7 +97,7 @@ cargo run --release
 
 <div align="center">
 
-### 🌌 Connect with the Grid
+### Connect with the Grid
 *Metropolis is more than a monitor. It's the vision of what your hardware sees when you're not looking.*
 
 [Star this repo](https://github.com/5c0/metropolis/stargazers) if you want to see more districts added.
