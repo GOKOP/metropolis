@@ -72,6 +72,11 @@ cargo install metropolis-tui
 yay -S metropolis
 ```
 
+### Windows (winget)
+```bash
+winget install 5c0.Metropolis
+```
+
 ### Build from Source
 *Requires [Rust](https://www.rust-lang.org/) and `cargo` to be installed.*
 ```bash
